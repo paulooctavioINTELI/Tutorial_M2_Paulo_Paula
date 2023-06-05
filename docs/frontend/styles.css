@@ -212,3 +212,14 @@ h4 strong {
     }
   }
 }
+
+form {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  justify-content: space-between;
+}
+
+form input {
+  width: 40%
+}
